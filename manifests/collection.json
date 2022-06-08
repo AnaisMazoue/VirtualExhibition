@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://AnaisMazoue.github.io/VirtualExhibition/manifests/PalLat1375manifest.json",
     "label" : "Pal. Lat. 1375"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://AnaisMazoue.github.io/VirtualExhibition/manifests/PalLat1375.json",
-    "label" : "Pal. Lat. 1375"
   } ]
 }
